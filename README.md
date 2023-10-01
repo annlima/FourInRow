@@ -1,25 +1,43 @@
-# FourInRow
+# Conecta 4 en Java
 
-El programa representa un juego similar a "Connect Four" en una matriz de 7x7.
+![Conecta 4](inserta_tu_enlace_a_la_imagen_del_juego)
 
-Componentes Principales:
+Este proyecto implementa el juego "Conecta 4" en Java, que permite a dos jugadores competir para conectar cuatro fichas de su color en línea, ya sea vertical, horizontal o diagonalmente. También incluye la opción de jugar contra la computadora como oponente.
 
-Tablero: Representado con una matriz de botones (JButton) de tamaño 7x7.
-Jugadores: Hay dos jugadores - 'X' (Player 1) y 'O' (Player 2 o Computadora).
-Juego:
+## Capturas de Pantalla
+<img width="712" alt="Captura de pantalla 2023-10-01 a la(s) 3 03 32 p m" src="https://github.com/annlima/FourInRow/assets/89811870/25b52c50-90a3-43c3-b1d7-cbc3009f4eb8">
+*Menú del Juego*
 
-El objetivo del juego es conectar cuatro de sus propias fichas consecutivamente en línea recta (verticalmente, horizontalmente o diagonalmente).
-El juego comienza con la última fila (inferior) del tablero, que está disponible para ambos jugadores. El resto del tablero se inicializa como "no disponible".
-Los jugadores juegan turnos. Si la opción playAgainstComputer es verdadera, el Player 2 es controlado por el ordenador, que hace movimientos aleatorios en las columnas disponibles.
-Cuando un jugador logra conectar cuatro fichas, se muestra un mensaje anunciando al ganador. Si el jugador 2 (la computadora) gana, el mensaje será "La computadora ha ganado".
-Interacción:
+<img width="568" alt="Captura de pantalla 2023-10-01 a la(s) 3 04 05 p m" src="https://github.com/annlima/FourInRow/assets/89811870/bf8346a3-46fb-4d11-a0f2-831f469b2c3f">
+*Tablero*
 
-Los jugadores interactúan haciendo clic en los botones de la matriz.
-Al hacer clic en un botón disponible, el botón mostrará el símbolo del jugador (ya sea 'X' o 'O') y se bloqueará.
-Verificación de la Victoria:
+## Instrucciones de Ejecución
 
-Después de cada movimiento, el programa verifica si hay cuatro fichas consecutivas en cualquier dirección (horizontal, vertical o diagonal).
-Si se detecta una victoria, se muestra un mensaje.
-Reinicio:
+1. Clona este repositorio en tu máquina local.
+2. Abre el proyecto en tu entorno de desarrollo Java preferido.
+3. Compila y ejecuta el archivo `Tablero.java`.
+4. Sigue las instrucciones en la interfaz gráfica para jugar.
 
-Después de anunciar al ganador, el programa da la opción de reiniciar el juego o cerrarlo.
+## Requisitos y Dependencias
+
+- Java Development Kit (JDK) 8 o superior.
+
+## Características
+
+- Tablero de juego 7x7.
+- Turnos alternados para dos jugadores.
+- Conexión de 4 fichas para ganar.
+- Modo de un jugador contra la computadora.
+- Interfaz de usuario gráfica (GUI).
+- Gestión de victoria y reinicio del juego.
+
+## Contribuciones
+
+Si deseas contribuir a este proyecto, ¡estamos abiertos a colaboraciones! Siéntete libre de crear pull requests o informar problemas.
+
+## Autor
+
+- Andrea Lima Blanca
+- Contacto: andrealimablanca@outlook.com
+
+
