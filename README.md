@@ -2,13 +2,17 @@
 Este proyecto implementa el juego "Conecta 4" en Java, que permite a dos jugadores competir para conectar cuatro fichas de su color en línea, ya sea vertical, horizontal o diagonalmente. También incluye la opción de jugar contra la computadora como oponente.
 
 ## Capturas de Pantalla
-<img width="712" alt="Captura de pantalla 2023-10-01 a la(s) 3 03 32 p m" src="https://github.com/annlima/FourInRow/assets/89811870/25b52c50-90a3-43c3-b1d7-cbc3009f4eb8">
+
 
 *Menú del Juego*
 
-<img width="568" alt="Captura de pantalla 2023-10-01 a la(s) 3 04 05 p m" src="https://github.com/annlima/FourInRow/assets/89811870/bf8346a3-46fb-4d11-a0f2-831f469b2c3f">
+<img width="712" alt="Captura de pantalla 2023-10-01 a la(s) 6 32 42 p m" src="https://github.com/annlima/FourInRow/assets/89811870/b4c4e97a-2f22-4e83-a292-dab67cd27483">
+
 
 *Tablero*
+
+<img width="612" alt="Captura de pantalla 2023-10-01 a la(s) 6 32 57 p m" src="https://github.com/annlima/FourInRow/assets/89811870/469f2c2c-5d49-4bc7-893d-d97df29c57cf">
+
 
 ## Instrucciones de Ejecución
 
