@@ -45,7 +45,7 @@ public class Desktop extends JFrame {
 
         btnInstructions.addActionListener(event -> JOptionPane.showMessageDialog(null, "Try to build a row of four checkers (horizontally, vertically or diagonally) while keeping your opponent from doing the same. The turns will be alternating.\n On the screen you'll see buttons with the letter 'A' which means they are available, and some in black with the letter 'U' which means they are unavailable, more buttons will become available as you play."));
 
-        btnCredits.addActionListener(event -> JOptionPane.showMessageDialog(null, "Andrea Lima"));
+        btnCredits.addActionListener(event -> JOptionPane.showMessageDialog(null, "Andrea Lima and Dicka Lezama"));
 
         playComputer.addActionListener(event -> {
             Tablero newGame = new Tablero(true);
