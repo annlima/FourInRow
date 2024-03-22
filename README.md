@@ -41,8 +41,7 @@ Si deseas contribuir a este proyecto, ¡estamos abiertos a colaboraciones! Sién
 ## Autor
 
 - Andrea Lima Blanca
-- Contacto: andrealimablanca@outlook.com
-- https://www.linkedin.com/in/andrea-lima-blanca-baa109217/
+- Contacto: andrealimablanca@outlook.com || https://www.linkedin.com/in/andrea-lima-blanca-baa109217/
 
 - Dicka Jamesina Lezama Alvarado
 - Contacto: https://www.linkedin.com/in/dicka-jamesina-lezama-alvarado/
